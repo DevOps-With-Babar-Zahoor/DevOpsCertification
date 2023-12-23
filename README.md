@@ -1,2 +1,2 @@
-# DevOpsCertification
-DevOpsCertification
+# DevOps Certification
+DevOps Certification
